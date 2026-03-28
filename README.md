@@ -1,7 +1,7 @@
 # DB Debug Panel
 
 Panel de depuración en tiempo real para bases de datos, inyectable en cualquier entorno web y totalmente dinámico.
-
+![Vista del panel](Herramienta.jpg)
 ## ✨ Características
 
 - Monitorización en vivo de cualquier tabla
