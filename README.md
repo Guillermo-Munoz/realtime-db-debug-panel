@@ -47,7 +47,6 @@ DbDebugPanel.addTable('ps_orders');
 DbDebugPanel.setTable('ps_customer');
 DbDebugPanel.config.interval = 5000;
 ```
-
 ## 📊 Qué muestra
 
 - Filas en tiempo real
